@@ -13,7 +13,7 @@ After initializing docker engine, run:
 
 The Api will be activated in port 8080
 # TESTS
-Unit tests were developmented witho pytests
+Unit tests were developmented with pytests
 
 To run tests:
 
