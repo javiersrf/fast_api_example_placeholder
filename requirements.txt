@@ -1,0 +1,10 @@
+fastapi
+pydantic>=1.2.0,<2.0.0
+requests
+pytest
+uvicorn
+python-jose
+passlib
+gunicorn
+pytest-asyncio
+requests-mock
