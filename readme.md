@@ -10,6 +10,8 @@ After initializing docker engine, run:
 
 
 ```bash dev_run.sh```
+
+The Api will be activated in port 8080
 # TESTS
 Unit tests were developmented witho pytests
 
